@@ -1,126 +1,271 @@
-<h1 align="center">Hi there! 👋 I'm Jairo Rauda</h1>
-<h3 align="center">🚀 Full Stack Developer | Building end-to-end solutions</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%92%BB;Passionate+about+clean+code+%E2%9C%A8;Always+learning+something+new+%F0%9F%93%9A;Building+ideas+from+scratch+%F0%9F%9A%80" alt="Typing SVG" />
-</p>
+# Hey, I'm Jairo Rauda 👋
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=JairoRaudaDev&label=Profile+views&color=36BCF7&style=flat" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/JairoRaudaDev?label=Followers&style=social" alt="followers" />
-</p>
+### Senior Software Engineer · Web · Mobile · Backend · Cloud
+
+I design and build **production software, digital products, and interactive web experiences**.
+
+[![Website](https://img.shields.io/badge/jairorauda.dev-Visit%20my%20website-111111?style=for-the-badge\&logo=vercel\&logoColor=white)](https://jairorauda.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jairo%20Rauda-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/jairoraudarosales)
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Support%20my%20work-FFDD00?style=for-the-badge\&logo=buymeacoffee\&logoColor=000000)](https://buymeacoffee.com/jairoraudadev)
+
+</div>
 
 ---
 
-## 🧑‍💻 About me
+## About me
 
-```javascript
+I'm a **Senior Software Engineer based in Mexico** with **8+ years of production experience** building software across web, mobile, backend, and cloud infrastructure.
+
+My work spans the complete product lifecycle — from requirements and architecture to implementation, data modeling, deployment, observability, and post-launch iteration.
+
+I've worked on systems across **agriculture, aviation, healthcare, logistics, advertising, SaaS, and consumer products**, as well as delivering full-stack platforms directly for independent clients.
+
+```ts
 const jairo = {
-  role: "Full Stack Developer",
-  location: "🌎 Available for remote work",
-  focus: ["Frontend", "Backend", "REST APIs", "Databases"],
-  learning: ["Cloud", "DevOps", "Software Architecture"],
-  philosophy: "The best code is the one that needs no explanation",
-  hobbies: ["💻 Coding", "📚 Reading docs", "☕ Coffee"]
+  role: "Senior Software Engineer",
+  experience: "8+ years",
+  location: "Mexico",
+
+  focus: [
+    "Product Engineering",
+    "Web Applications",
+    "Cross-platform Mobile",
+    "Backend Systems",
+    "Cloud Infrastructure",
+  ],
+
+  core: [
+    "TypeScript",
+    "JavaScript",
+    "React",
+    "Next.js",
+    "React Native",
+    "Node.js",
+    "GraphQL",
+    "PostgreSQL",
+    "MongoDB",
+    "AWS",
+  ],
+
+  approach: "Own the problem end-to-end and ship software that lasts.",
 };
 ```
 
-- 🔭 Currently working on **full stack projects**
-- 🌱 Constantly learning new technologies
-- 💬 Ask me about **JavaScript, React, Node.js and web development**
-- ⚡ Fun fact: **I believe every bug is an opportunity to learn something new**
+---
+
+## What I work on
+
+**Product engineering**
+Turning requirements into maintainable production systems, from initial architecture through release and iteration.
+
+**Web & frontend**
+Building responsive, accessible, performant interfaces with React, Next.js, TypeScript, and modern browser APIs.
+
+**Mobile**
+Shipping cross-platform applications with React Native for complex real-world and enterprise workflows.
+
+**Backend & APIs**
+Designing Node.js, TypeScript, GraphQL, REST, database, authentication, and integration layers.
+
+**Cloud & operations**
+Working with AWS, Azure, PostgreSQL, MongoDB, observability, deployment pipelines, and production migrations.
 
 ---
 
-## 🛠️ Technologies & Tools
+## Selected work
 
-### 💻 Languages
-<p>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-</p>
+### 🏋️ PinaFit
 
-### ⚛️ Frontend
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
-</p>
+An end-to-end gym operations platform covering **reservations, members, resources, administration, and operational workflows**.
 
-### 🔧 Backend
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-</p>
+I lead the product across requirements, architecture, data modeling, implementation, cloud delivery, release planning, and post-launch support.
 
-### 🗄️ Databases
-<p>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
-</p>
+**Stack:** React · Next.js · Node.js · PostgreSQL · MongoDB · AWS
 
-### 🧰 Tools
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-</p>
+[View my work →](https://jairorauda.dev/work/pinafit)
 
 ---
 
-## 📊 GitHub Stats
+### 🌱 Enterprise Field Platform
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JairoRaudaDev&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
+Cross-platform field software supporting complex agricultural workflows.
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=JairoRaudaDev&theme=tokyonight&no-frame=true&row=1&column=7" alt="trophy" />
-</p>
+I worked across the **React Native application** and later designed and shipped **Node.js and GraphQL services on AWS** for the production backend.
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JairoRaudaDev&theme=tokyo-night&hide_border=true" alt="activity graph" />
-</p>
+**Stack:** React Native · Node.js · GraphQL · AWS
 
+[View case study →](https://jairorauda.dev/work/syngenta-ghx)
 
 ---
 
-## 🌐 Let's Connect
+### ☁️ Cloud Migration & Observability
 
-<p align="center">
-  <a href="mailto:hey@jairorauda.dev">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/jairoraudadev/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <!-- <a href="https://twitter.com/">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a> -->
-  <!-- <a href="https://jairorauda.dev">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" />
-  </a> -->
-</p>
+Production infrastructure work focused on migrating backend services toward a clearer AWS-based foundation.
+
+The work included **database reorganization, AWS infrastructure, Sentry, Datadog, analytics, security monitoring, and advertising-platform integrations**.
+
+**Stack:** AWS · PostgreSQL · Node.js · Sentry · Datadog
+
+[View case study →](https://jairorauda.dev/work/filament-cloud-migration)
 
 ---
 
-<p align="center">
-  <i>⭐ If you like my work, give my repos a star. It means a lot!</i>
+## Experience highlights
+
+Over the years, I've had the opportunity to work on:
+
+* 📱 Cross-platform mobile products for **digital healthcare**
+* 🌾 React Native and backend systems supporting **enterprise agricultural workflows**
+* ✈️ TypeScript, GraphQL, MongoDB, and Angular systems for **aviation maintenance**
+* 📦 Mobile logistics workflows including scheduling, barcode scanning, notifications, and reporting
+* ☁️ Production infrastructure migrations and observability on **AWS**
+* 🧩 Node.js integrations with existing **C#/.NET** systems
+* 🏗️ Production websites and full-stack platforms for **dozens of independent clients**
+* 💾 Large-scale data migrations, including systems involving **millions of records**
+
+---
+
+## Tech
+
+### Core
+
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,graphql,angular" alt="Core technologies" />
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=30&fontColor=fff&animation=twinkling" />
+### Mobile & Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,dotnet,express" alt="Mobile and backend technologies" />
 </p>
+
+### Data & Infrastructure
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,aws,azure,docker" alt="Data and infrastructure technologies" />
+</p>
+
+### Additional experience
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,ruby,java,kotlin,go,php" alt="Additional technologies" />
+</p>
+
+I care more about **choosing the right technology for the problem** than collecting frameworks.
+
+---
+
+## Beyond client & product work
+
+My website is also where I experiment and share things I find useful.
+
+### 🧰 Browser tools
+
+I build privacy-conscious utilities that run directly in the browser — including tools for working with JSON, images, video, PDFs, encodings, and developer data.
+
+[Explore the tools →](https://jairorauda.dev/tools)
+
+### 🧪 Lab
+
+Small interactive engineering and interface experiments where I explore browser behavior, motion, interaction design, and frontend techniques.
+
+[Visit the lab →](https://jairorauda.dev/lab)
+
+### ✍️ Writing
+
+Notes, devlogs, and practical technical writing about software engineering and the things I'm building.
+
+[Read my writing →](https://jairorauda.dev/writing)
+
+---
+
+## How I like to build
+
+```text
+Understand the problem
+        ↓
+Define the constraints
+        ↓
+Design the system
+        ↓
+Build the smallest solid version
+        ↓
+Test the real workflows
+        ↓
+Ship
+        ↓
+Observe, learn, improve
+```
+
+I value:
+
+* clear architecture over unnecessary abstraction
+* accessible and resilient interfaces
+* maintainable systems over clever code
+* sensible testing at the right boundaries
+* observability in production
+* privacy-aware product decisions
+* ownership beyond the pull request
+
+---
+
+## GitHub
+
+<div align="center">
+
+<img
+src="https://github-readme-streak-stats.herokuapp.com/?user=JairoRaudaDev&theme=transparent&hide_border=true"
+alt="GitHub streak"
+/>
+
+<br />
+
+<img
+src="https://github-readme-activity-graph.vercel.app/graph?username=JairoRaudaDev&theme=github-compact&hide_border=true&area=true"
+alt="GitHub activity graph"
+/>
+
+</div>
+
+> A significant part of my professional work lives in private repositories, so GitHub activity is only one slice of the software I've shipped.
+
+---
+
+## Currently
+
+* 🔨 Building and shipping production software and independent products
+* 🧰 Creating useful browser-based tools
+* 🧪 Experimenting with thoughtful web interactions
+* ✍️ Writing about engineering and what I learn along the way
+* 🤝 Open to **full-time and freelance opportunities**
+
+---
+
+## Support my work ☕
+
+If you find my tools, writing, experiments, or open-source work useful, you can support what I build here:
+
+<div align="center">
+
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-☕%20Support%20my%20work-FFDD00?style=for-the-badge\&logo=buymeacoffee\&logoColor=000000)](https://buymeacoffee.com/jairoraudadev)
+
+</div>
+
+---
+
+<div align="center">
+
+### Want to build something together?
+
+[**jairorauda.dev**](https://jairorauda.dev) ·
+[**LinkedIn**](https://linkedin.com/in/jairoraudarosales) ·
+[**Buy Me a Coffee ☕**](https://buymeacoffee.com/jairoraudadev) ·
+[**Email me**](mailto:jairorr121@gmail.com)
+
+<br />
+
+<sub>Thanks for stopping by. ☕</sub>
+
+</div>
